@@ -1,0 +1,13 @@
+{
+    "version": "0.0.4",
+    "summary": "Program for playing Go, written in Elm",
+    "repository": "https://github.com/theHawke/ego.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [],
+    "dependencies": {
+        "elm-lang/core": "1.0.0 <= v < 2.0.0"
+    }
+}
